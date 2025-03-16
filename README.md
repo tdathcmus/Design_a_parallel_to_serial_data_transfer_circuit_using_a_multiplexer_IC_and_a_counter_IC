@@ -1,4 +1,3 @@
-# Digital-Electronics
 
 Design a parallel-to-serial data transfer circuit using a multiplexer IC and a counter IC.
 - Description:
