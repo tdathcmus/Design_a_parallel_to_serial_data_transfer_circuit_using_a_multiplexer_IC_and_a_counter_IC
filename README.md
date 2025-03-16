@@ -2,11 +2,11 @@
 
 Design a parallel-to-serial data transfer circuit using a multiplexer IC and a counter IC.
 Description:
--There are 8 data input lines designed using switches.
--There is 1 output LED to indicate the signal.
--The circuit allows for data transfer.
--There is an LED to indicate the clock pulse frequency.
--Students are required to design a pulse generation circuit
+- There are 8 data input lines designed using switches.
+- There is 1 output LED to indicate the signal.
+- The circuit allows for data transfer.
+- There is an LED to indicate the clock pulse frequency.
+- Students are required to design a pulse generation circuit
 
 
 Thiết kế mạch chuyển dữ liệu song song sang nối tiếp sử dụng IC đa hợp và IC đếm
