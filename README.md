@@ -1,4 +1,3 @@
-# Semester_3_First_year_project
 
 Design a parallel-to-serial data transfer circuit using a multiplexer IC and a counter IC.
 - Description:
